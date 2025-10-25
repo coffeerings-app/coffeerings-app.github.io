@@ -66,6 +66,6 @@ This privacy policy may be updated if necessary. The current version will always
 
 ---
 
-<p style="margin-top:24px;">
-  <a href="/en/support/">Support</a> · <a href="/en/privacy/">Privacy</a> · <a href="/">Home</a>
+<p align="center">
+  <a href="/en/support/">Support</a> · <a href="/en/ai-vs-offline/">AI vs Offline Philosophy</a> · <a href="/">Home</a>
 </p>
