@@ -45,7 +45,11 @@ table.cmp tr:nth-child(even) td, table.cmp tr:nth-child(even) th{background: #fa
 
 <div class="page-wrap">
 
-<p class="kicker">Coffee Rings</p>
+<p align="center">
+  <img src="/assets/coffeerings.png" alt="Coffee Rings" width="90"><br>
+<a href="/de/support/">Support</a> · <a href="/de/privacy/">Privacy</a> · <a href="/">Home</a>
+</p>
+
 <h1>KI vs. Offline – Empfehlungs-Philosophie</h1>
 
 <p class="lede">
@@ -140,7 +144,8 @@ Ziel ist stets <strong>Ausgewogenheit, Konsistenz und nachvollziehbare Hinweise.
 </div>
 
 <p style="margin-top:24px;">
-  <a href="/de/support/">Support</a> · <a href="/de/privacy/">Datenschutz</a> · <a href="/">Startseite</a>
+  <a href="/de/support/">Support</a> · <a href="/de/privacy/">Privacy</a> · <a href="/">Home</a>
 </p>
+
 
 </div>
