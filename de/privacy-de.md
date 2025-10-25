@@ -66,6 +66,6 @@ Wir behalten uns vor, diese Datenschutzrichtlinie bei Bedarf anzupassen. Die jew
 
 ---
 
-<p align="center">
-  <a href="/">Startseite</a>
+<p style="margin-top:24px;">
+  <a href="/de/support/">Support</a> · <a href="/de/privacy/">Datenschutz</a> · <a href="/">Startseite</a>
 </p>
