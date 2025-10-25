@@ -5,8 +5,7 @@ permalink: /en/support/
 
 <p align="center">
   <img src="/assets/coffeerings.png" alt="Coffee Rings" width="90"><br>
-  <a href="/en/support/">Support</a> | <a href="/en/privacy/">Privacy</a> ·
-  <a href="/de/support/">Deutsch</a>
+  <a href="/en/privacy/">Privacy</a> · <a href="/en/ai-vs-offline/">AI vs Offline Philosophy</a> · <a href="/">Home</a>
 </p>
 
 # ☕ Coffee Rings Support
