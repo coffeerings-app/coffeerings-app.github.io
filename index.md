@@ -17,10 +17,18 @@ layout: default
   </tr>
   <tr>
     <td style="text-align:center; padding:6px 12px;">
-      <a href="/en/support/">Support</a> · <a href="/en/privacy/">Privacy</a> · <a href="/en/ai-vs-offline/">AI vs Offline</a>
+      <a href="/en/support/">Support</a>
+      <p>
+      </p>
+      <a href="/en/privacy/">Privacy</a>
+      <p>
+      </p>
+      <a href="/en/ai-vs-offline/">AI vs Offline</a>
     </td>
     <td style="text-align:center; padding:6px 12px;">
-      <a href="/de/support/">Support</a> · <a href="/de/privacy/">Datenschutz</a> · <a href="/de/ai-vs-offline/">KI vs Offline</a>
+      <a href="/de/support/">Support</a>  <p>
+      </p><a href="/de/privacy/">Datenschutz</a>  <p>
+      </p><a href="/de/ai-vs-offline/">KI vs Offline</a>
     </td>
   </tr>
 </table>
