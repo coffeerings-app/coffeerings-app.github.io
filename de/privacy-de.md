@@ -5,8 +5,10 @@ permalink: /de/privacy/
 
 <p align="center">
   <img src="/assets/coffeerings.png" alt="Coffee Rings" width="90"><br>
-  <a href="/de/support/">Support</a> | <a href="/de/privacy/">Datenschutz</a> ·
-  <a href="/en/privacy/">English</a>
+<p align="center">
+  <a href="/de/support/">Support</a> · <a href="/de/ai-vs-offline/">AI vs Offline Philosophy</a> · <a href="/">Home</a>
+</p>
+
 </p>
 
 # 📜 Datenschutzrichtlinie / Privacy Policy – Coffee Rings
@@ -66,6 +68,7 @@ Wir behalten uns vor, diese Datenschutzrichtlinie bei Bedarf anzupassen. Die jew
 
 ---
 
-<p style="margin-top:24px;">
-  <a href="/de/support/">Support</a> · <a href="/de/privacy/">Datenschutz</a> · <a href="/">Startseite</a>
+<p align="center">
+  <a href="/de/support/">Support</a> · <a href="/de/ai-vs-offline/">AI vs Offline Philosophy</a> · <a href="/">Home</a>
 </p>
+
