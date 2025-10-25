@@ -19,7 +19,7 @@ Whether you prefer the **deterministic Offline Engine** (built into the app) or 
 
 ## Comparison Overview
 
-| Dimension | AI Engine (`AIRecommendationService`) | Offline Engine (`OfflineRecommendationEngine`) | What this means |
+| Dimension | AI Engine | Offline Engine | What this means |
 |------------|----------------------------------------|-----------------------------------------------|----------------|
 | **Primary goal** | Context-adaptive re-balancing based on roast × drink × milk × taste deltas. | Deterministic, rule-bound corrections with validated plan. | AI flexes per context; Offline guarantees predictable, guardrailed moves. |
 | **Inputs considered** | Full shot state, previous shot, equipment, drink, milk, roast, taste. | Same core inputs plus “foundation” layer for extreme cases. | Both read the same data; Offline adds a safety net for outliers. |
