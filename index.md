@@ -52,7 +52,7 @@ layout: default
   </p>
 
   <p>
-    <a href="https://apps.apple.com/app/idYOURAPPID" style="background:#d6a056; color:white; padding:10px 18px; border-radius:12px; text-decoration:none; font-weight:600;">Download on the App Store</a>
+    <a href="https://apps.apple.com/app/id6752240751" style="background:#d6a056; color:white; padding:10px 18px; border-radius:12px; text-decoration:none; font-weight:600;">Download on the App Store</a>
   </p>
 
   <hr style="width:40%; margin:3rem auto;">
@@ -67,7 +67,7 @@ layout: default
   </p>
 
   <p>
-    <a href="https://apps.apple.com/app/idYOURAPPID" style="background:#d6a056; color:white; padding:10px 18px; border-radius:12px; text-decoration:none; font-weight:600;">Im App Store ansehen</a>
+    <a href="https://apps.apple.com/app/id6752240751" style="background:#d6a056; color:white; padding:10px 18px; border-radius:12px; text-decoration:none; font-weight:600;">Im App Store ansehen</a>
   </p>
 
 </section>
