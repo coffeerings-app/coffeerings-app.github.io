@@ -95,20 +95,20 @@ Ziel ist stets <strong>Ausgewogenheit, Konsistenz und nachvollziehbare Hinweise.
       <td data-label="Bedeutung">Keine wilden Sprünge; Offline etwas zurückhaltender.</td>
     </tr>
     <tr>
-      <th>Ausbeute (Ratio)</th>
+      <th>Output (Ratio)</th>
       <td data-label="KI-Engine">Hohe Präzision (0,1 g) und strengeres Tor für „sinnvolle“ Änderungen.</td>
       <td data-label="Offline-Engine">Röstungs/Style-abhängige Schrittweiten mit Ratio-Leitplanken.</td>
       <td data-label="Bedeutung">Verlängern für Klarheit, verkürzen für Körper; Schrittgröße variiert.</td>
     </tr>
     <tr>
       <th>Mahlgrad-Hinweise</th>
-      <td data-label="KI-Engine">Physik zuerst: ↑Ausbeute ⇒ gröber, ↓Ausbeute ⇒ feiner. Zeit-Bänder übersteuern (≤22 s ⇒ feiner, ≥32 s ⇒ gröber).</td>
-      <td data-label="Offline-Engine">Nahezu identisch: Zeit zuerst, im Neutralband Geschmack, dann Ausbeute-Paarung.</td>
-      <td data-label="Bedeutung">Verhindert Widersprüche wie „feiner + mehr Ausbeute“.</td>
+      <td data-label="KI-Engine">Physik zuerst: ↑ Output ⇒ gröber, ↓ Output ⇒ feiner. Zeit-Bänder übersteuern (≤ 22 s ⇒ feiner, ≥ 32 s ⇒ gröber).</td>
+      <td data-label="Offline-Engine">Nahezu identisch: Zeit zuerst, im Neutralband Geschmack, dann Output-Paarung.</td>
+      <td data-label="Bedeutung">Verhindert Widersprüche wie „feiner + mehr Output“.</td>
     </tr>
     <tr>
       <th>Behandlung der Shot-Zeit</th>
-      <td data-label="KI-Engine">Nie direkt eingestellt; ergibt sich aus Mahlgrad/Ausbeute. Berücksichtigt PI-Gutschrift.</td>
+      <td data-label="KI-Engine">Nie direkt eingestellt; ergibt sich aus Mahlgrad / Output Berücksichtigt PI-Gutschrift.</td>
       <td data-label="Offline-Engine">Gleiches Prinzip; Zeit steuert nur Leitplanken.</td>
       <td data-label="Bedeutung">Zeit ist ein <em>Ergebnis</em>, kein Drehknopf.</td>
     </tr>
