@@ -63,3 +63,9 @@ Freiwillige Trinkgelder („Tip Jar“) werden ausschließlich über Apple Inc. 
 
 ## Änderungen dieser Richtlinie
 Wir behalten uns vor, diese Datenschutzrichtlinie bei Bedarf anzupassen. Die jeweils aktuelle Version findest du in der App sowie im App-Store-Eintrag.
+
+---
+
+<p align="center">
+  <a href="/">Startseite</a>
+</p>
