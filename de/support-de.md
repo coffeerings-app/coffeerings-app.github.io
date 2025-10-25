@@ -63,3 +63,9 @@ E-Mail: **coffeerings.app@gmail.com**
 ---
 
 © 2025 Michael Knop · Coffee Rings · Alle Rechte vorbehalten
+
+---
+
+<p align="center">
+  <a href="/">Startseite</a>
+</p>
