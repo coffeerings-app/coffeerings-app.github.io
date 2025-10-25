@@ -63,10 +63,6 @@ Email: **coffeerings.app@gmail.come**
 
 ---
 
-© 2025 Michael Knop · Coffee Rings · All rights reserved
-
----
-
-<p style="margin-top:24px;">
-  <a href="/en/support/">Support</a> · <a href="/en/privacy/">Privacy</a> · <a href="/">Home</a>
+<p align="center">
+  <a href="/en/privacy/">Privacy</a> · <a href="/en/ai-vs-offline/">AI vs Offline Philosophy</a> · <a href="/">Home</a>
 </p>
