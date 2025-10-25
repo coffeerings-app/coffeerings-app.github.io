@@ -53,7 +53,7 @@ This creates your own brew history – a personal data set to learn from and imp
 → By default, locally on your device. Optional iCloud sync is fully private and tied only to your Apple account.
 
 **How can I report a bug or give feedback?**  
-→ Email **dev@mkknop.de** with a short description and screenshot if possible. We usually reply within a few days.
+→ Email **coffeerings.app@gmail.com** with a short description and screenshot if possible. We usually reply within a few days.
 
 ---
 
