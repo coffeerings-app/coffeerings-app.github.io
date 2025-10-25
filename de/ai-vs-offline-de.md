@@ -140,6 +140,7 @@ Ziel ist stets <strong>Ausgewogenheit, Konsistenz und nachvollziehbare Hinweise.
 
 <div class="note">
   Privat, ohne Netzwerk oder Kosten? Nutze die integrierte Offline-Engine.  
+    <p></p>
   Mehr Kontext-Nuance gewünscht? Hinterlege in der App deinen OpenAI API-Schlüssel für KI-Empfehlungen.
 </div>
 
