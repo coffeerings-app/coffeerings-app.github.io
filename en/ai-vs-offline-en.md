@@ -144,7 +144,8 @@ Whether you prefer the <strong>deterministic Offline Engine</strong> (built into
 </div>
 
 <div class="note">
-  Prefer privacy/no network or costs? Use the built-in Offline Engine.  
+  Prefer privacy / no network or costs? Use the built-in Offline Engine.  
+  <p></p>
   Want context-aware nuance? Add your own OpenAI API key in the app to enable AI recommendations.
 </div>
 
