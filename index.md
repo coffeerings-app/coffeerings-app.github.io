@@ -37,3 +37,39 @@ layout: default
 <p align="center">
   <em>Perfect espresso is no coincidence.</em>
 </p>
+<hr style="width:60%; margin:2rem auto;">
+
+<section style="text-align:center; max-width:700px; margin:0 auto; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+
+  <h2 style="margin-top:1.5rem;">Perfect espresso – one shot at a time.</h2>
+  <p style="font-size:1.1rem; line-height:1.6; color:#333;">
+    Coffee Rings helps you document, analyze, and improve your espresso shots with ease.
+    From dose and yield to taste and temperature — everything you need for your perfect cup.
+  </p>
+
+  <p style="font-size:1.1rem; line-height:1.6; color:#333;">
+    Whether you like experimenting on your own or prefer guided insights, Coffee Rings combines proven barista logic with optional AI analysis for a deeper understanding of your brewing process.
+  </p>
+
+  <p>
+    <a href="https://apps.apple.com/app/idYOURAPPID" style="background:#d6a056; color:white; padding:10px 18px; border-radius:12px; text-decoration:none; font-weight:600;">Download on the App Store</a>
+  </p>
+
+  <hr style="width:40%; margin:3rem auto;">
+
+  <h2>Perfekter Espresso – ein Shot nach dem anderen.</h2>
+  <p style="font-size:1.1rem; line-height:1.6; color:#333;">
+    Coffee Rings hilft dir, deine Espressoshots präzise zu dokumentieren, zu analysieren und gezielt zu verbessern – für konstante, großartige Ergebnisse.
+  </p>
+
+  <p style="font-size:1.1rem; line-height:1.6; color:#333;">
+    Egal ob du lieber selbst experimentierst oder dich von der App leiten lässt – Coffee Rings kombiniert bewährtes Barista-Wissen mit optionaler KI-Analyse für ein besseres Verständnis deiner Zubereitung.
+  </p>
+
+  <p>
+    <a href="https://apps.apple.com/app/idYOURAPPID" style="background:#d6a056; color:white; padding:10px 18px; border-radius:12px; text-decoration:none; font-weight:600;">Im App Store ansehen</a>
+  </p>
+
+</section>
+
+<hr style="width:60%; margin:3rem auto;">
