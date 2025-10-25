@@ -107,20 +107,20 @@ Whether you prefer the <strong>deterministic Offline Engine</strong> (built into
     </tr>
     <tr>
       <th>Grind guidance</th>
-      <td data-label="AI Engine">Physics first: ↑yield ⇒ coarser; ↓yield ⇒ finer. Time-band overrides (≤22 s ⇒ finer, ≥32 s ⇒ coarser).</td>
+      <td data-label="AI Engine">Physics first: ↑ yield ⇒ coarser; ↓ yield ⇒ finer. Time-band overrides (≤ 22 s ⇒ finer, ≥ 32 s ⇒ coarser).</td>
       <td data-label="Offline Engine">Nearly identical: time first, taste in neutral band, then yield pairing.</td>
       <td data-label="What this means">Prevents contradictions like “finer + more yield”.</td>
     </tr>
     <tr>
       <th>Shot time handling</th>
-      <td data-label="AI Engine">Never adjusted directly; derived from grind/yield. Accounts for PI credit.</td>
+      <td data-label="AI Engine">Never adjusted directly; derived from grind/yield. Accounts for Pre-Infusion credit.</td>
       <td data-label="Offline Engine">Same principle; time informs grind guardrails.</td>
       <td data-label="What this means">Time is an <em>outcome</em>, not a knob.</td>
     </tr>
     <tr>
       <th>Pre-infusion policy</th>
       <td data-label="AI Engine">Allowed/disabled by policy; JSON schema restricts to integers (0, 3–8 s).</td>
-      <td data-label="Offline Engine">Enables/steps PI when acidity is high & time not long; removes for bitter short shots.</td>
+      <td data-label="Offline Engine">Enables/steps Pre-Infusion when acidity is high & time not long; removes for bitter short shots.</td>
       <td data-label="What this means">Offline is more proactive as a taste smoother.</td>
     </tr>
     <tr>
