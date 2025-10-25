@@ -67,6 +67,6 @@ Email: **coffeerings.app@gmail.come**
 
 ---
 
-<p align="center">
-  <a href="/">Home</a>
+<p style="margin-top:24px;">
+  <a href="/en/support/">Support</a> · <a href="/en/privacy/">Privacy</a> · <a href="/">Home</a>
 </p>
