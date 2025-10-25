@@ -9,8 +9,12 @@ permalink: /
 
 <h1 align="center">Coffee Rings</h1>
 
+| 🇬🇧 English | 🇩🇪 Deutsch |
+|-------------|-------------|
+| [Support](/en/support/) | [Support](/de/support/) |
+| [Privacy](/en/privacy/) | [Datenschutz](/de/privacy/) |
+| [AI vs. Offline Philosophy](/en/ai-vs-offline/) | [KI vs. Offline-Engine](/de/ai-vs-offline/) |
+
 <p align="center">
-  <strong>Choose your language · Sprache wählen</strong><br>
-  <a href="/en/support/">Support (English)</a> · <a href="/en/privacy/">Privacy (English)</a><br>
-  <a href="/de/support/">Support (Deutsch)</a> · <a href="/de/privacy/">Datenschutz (Deutsch)</a>
+  <em>Perfect espresso is no coincidence.</em>
 </p>
