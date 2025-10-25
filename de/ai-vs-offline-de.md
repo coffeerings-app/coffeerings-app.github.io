@@ -143,7 +143,8 @@ Ziel ist stets <strong>Ausgewogenheit, Konsistenz und nachvollziehbare Hinweise.
     <p></p>
   Mehr Kontext-Nuance gewünscht? Hinterlege in der App deinen OpenAI API-Schlüssel für KI-Empfehlungen.
 </div>
-
+<p></p>
+  
 <p align="center">
   <a href="/de/support/">Support</a> · <a href="/de/privacy/">Privacy</a> · <a href="/">Home</a>
 </p>
