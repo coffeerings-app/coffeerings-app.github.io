@@ -58,7 +58,7 @@ This creates your own brew history – a personal data set to learn from and imp
 ---
 
 ## 📩 Contact
-Email: **coffeerings.app@gmail.come**  
+Email: **coffeerings.app@gmail.com**  
 
 ---
 
