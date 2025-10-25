@@ -148,7 +148,7 @@ Whether you prefer the <strong>deterministic Offline Engine</strong> (built into
   Want context-aware nuance? Add your own OpenAI API key in the app to enable AI recommendations.
 </div>
 
-<p style="margin-top:24px;">
+<p align="center">
   <a href="/en/support/">Support</a> · <a href="/en/privacy/">Privacy</a> · <a href="/">Home</a>
 </p>
 
