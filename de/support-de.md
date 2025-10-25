@@ -55,7 +55,7 @@ So entsteht eine dokumentierte Shot-Historie, aus der du lernen kannst – deine
 → Standardmäßig ausschließlich lokal auf deinem Gerät. iCloud-Sync ist optional und ausschließlich deiner Apple-ID zugeordnet.
 
 **Wie melde ich einen Fehler oder gebe Feedback?**  
-→ Schreibe eine E-Mail an **dev@mkknop.de** mit einer kurzen Beschreibung und ggf. Screenshot.  
+→ Schreibe eine E-Mail an **coffeerings.app@gmail.com** mit einer kurzen Beschreibung und ggf. Screenshot.  
 
 ---
 
