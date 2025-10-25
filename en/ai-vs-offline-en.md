@@ -50,6 +50,12 @@ table.cmp tr:nth-child(even) td, table.cmp tr:nth-child(even) th{background: #fa
 
 <div class="page-wrap">
 
+<p align="center">
+  <img src="/assets/coffeerings.png" alt="Coffee Rings" width="90"><br>
+<a href="/en/support/">Support</a> · <a href="/en/ai-vs-offline/">AI vs Offline Philosophy</a> · <a href="/">Home</a>
+</p>
+
+
 <p class="kicker">Coffee Rings</p>
 <h1>AI vs Offline Recommendation Philosophy</h1>
 
