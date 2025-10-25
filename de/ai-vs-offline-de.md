@@ -19,7 +19,7 @@ Ob du die **deterministische Offline-Engine** (integriert, ohne Internet) oder d
 
 ## Vergleich im Überblick
 
-| Dimension | KI-Engine (`AIRecommendationService`) | Offline-Engine (`OfflineRecommendationEngine`) | Bedeutung in der Praxis |
+| Dimension | KI-Engine | Offline-Engine | Bedeutung in der Praxis |
 |------------|----------------------------------------|------------------------------------------------|----------------|
 | **Hauptziel** | Kontextabhängige Re-Balance basierend auf Röstung × Getränk × Milch × Geschmack. | Deterministische, regelbasierte Korrekturen mit validiertem Plan. | KI reagiert flexibel, Offline agiert vorhersagbar und abgesichert. |
 | **Eingaben** | Vollständiger Shot-Status, vorheriger Shot, Equipment, Getränk, Milch, Röstung, Geschmack. | Gleiche Basis + Sicherheits-Layer für Extremfälle. | Beide lesen dieselben Daten; Offline bietet Notfall-Logik. |
