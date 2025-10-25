@@ -63,3 +63,9 @@ All payments are processed solely by Apple Inc. through your App Store account. 
 
 ## Changes to this policy
 This privacy policy may be updated if necessary. The current version will always be available within the app and on the App Store page.
+
+---
+
+<p align="center">
+  <a href="/">Home</a>
+</p>
