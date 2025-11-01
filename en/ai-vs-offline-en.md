@@ -133,12 +133,6 @@ Whether you prefer the <strong>deterministic Offline Engine</strong> (built into
       <td data-label="Offline Engine"><code>foundationNudges</code> (max 2) for temp/ratio/time before taste tweaks.</td>
       <td data-label="What this means">AI can list more must-fixes; Offline keeps first-aid tiny and safe.</td>
     </tr>
-    <tr>
-      <th>Language & UX</th>
-      <td data-label="AI Engine">Units/steps enforced; localized summaries; DE glossary fixes.</td>
-      <td data-label="Offline Engine">Mirrors numeric targets; strong accessibility labels.</td>
-      <td data-label="What this means">Consistent phrasing across both paths.</td>
-    </tr>
   </tbody>
 </table>
 </div>
