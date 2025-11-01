@@ -128,12 +128,6 @@ Ziel ist stets <strong>Ausgewogenheit, Konsistenz und nachvollziehbare Hinweise.
       <td data-label="Offline-Engine"><code>foundationNudges</code> (max. 2) für Temp/Ratio/Zeit vor Geschmack.</td>
       <td data-label="Bedeutung">KI kann mehr Must-Fixes listen; Offline bleibt klein & sicher.</td>
     </tr>
-    <tr>
-      <th>Sprache & UX</th>
-      <td data-label="KI-Engine">Einheiten/Schritte erzwungen; lokalisierte Zusammenfassungen; DE-Glossar.</td>
-      <td data-label="Offline-Engine">Spiegelt Zielwerte; starke Accessibility-Labels.</td>
-      <td data-label="Bedeutung">Konsistente Formulierungen in beiden Pfaden.</td>
-    </tr>
   </tbody>
 </table>
 </div>
