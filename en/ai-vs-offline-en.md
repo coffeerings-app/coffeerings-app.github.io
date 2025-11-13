@@ -129,9 +129,9 @@ Whether you prefer the <strong>deterministic Offline Engine</strong> (built into
     </tr>
     <tr>
       <th>Extremes handling</th>
-      <td data-label="AI Engine">“Extreme Mode” can emit up to 5 actions incl. Priority-0 must-fix.</td>
-      <td data-label="Offline Engine"><code>foundationNudges</code> (max 2) for temp/ratio/time before taste tweaks.</td>
-      <td data-label="What this means">AI can list more must-fixes; Offline keeps first-aid tiny and safe.</td>
+      <td data-label="AI Engine">“Extreme Mode” focusses on Priority-0 must-fixes to get on track.</td>
+      <td data-label="Offline Engine">Also here, a maximum of 2 changes for temp/ratio/time are applied before any taste tweaks.</td>
+      <td data-label="What this means">Both approaches help you get started with a first-aid approach.</td>
     </tr>
   </tbody>
 </table>
