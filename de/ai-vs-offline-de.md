@@ -124,9 +124,9 @@ Ziel ist stets <strong>Ausgewogenheit, Konsistenz und nachvollziehbare Hinweise.
     </tr>
     <tr>
       <th>Umgang mit Extremen</th>
-      <td data-label="KI-Engine">„Extreme Mode“ kann bis zu 5 Aktionen inkl. Priorität-0 Must-Fix ausgeben.</td>
-      <td data-label="Offline-Engine"><code>foundationNudges</code> (max. 2) für Temp/Ratio/Zeit vor Geschmack.</td>
-      <td data-label="Bedeutung">KI kann mehr Must-Fixes listen; Offline bleibt klein & sicher.</td>
+      <td data-label="KI-Engine">Der „Extreme Mode“ konzentriert sich auf Priorität-0-Korrekturen, um wieder auf Kurs zu kommen.</td>
+      <td data-label="Offline-Engine">Auch hier werden höchstens zwei Anpassungen bei Temperatur, Verhältnis oder Zeit vorgenommen, bevor irgendwelche Geschmacksanpassungen erfolgen.</td>
+      <td data-label="Bedeutung">Beide Ansätze helfen dir dabei, mit einer Art Erste-Hilfe-Vorgehen zu starten.</td>
     </tr>
   </tbody>
 </table>
